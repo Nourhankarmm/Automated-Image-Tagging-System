@@ -1,1 +1,1 @@
-# BreadcrumbsAutomated-Image-Tagging-System
+Automated-Image-Tagging-System
